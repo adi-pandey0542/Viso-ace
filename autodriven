@@ -1,0 +1,8 @@
+Machine Learning Project
+
+The aim of the project is to track a human visible in its camera view so that the robot can follow the target human.
+
+• Used around 300 images of Truck of different poses, scaling and illumination and trained the datasets of images using TensorFlow so that the robot is able to follow the targeted object (here Truck).
+• The project is the sub-part of Autonomous driving which results in safe and reliable driving facilities.The aim of the project is to track a human visible in its camera view so that the robot can follow the target human.
+• Used around 300 images of Truck of different poses, scaling and illumination and trained the datasets of images using TensorFlow so that the robot is able to follow the targeted object (here Truck).
+• The project is the sub-part of Autonomous driving which results in safe and reliable driving facilities.
